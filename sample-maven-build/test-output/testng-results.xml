@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="26233" started-at="2020-01-21T05:49:42Z" finished-at="2020-01-21T05:50:08Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="26233" started-at="2020-01-21T05:49:42Z" finished-at="2020-01-21T05:50:08Z">
+      <class name="com.test.verifyGoogleTest">
+        <test-method status="PASS" signature="startapp()[pri:0, instance:com.test.verifyGoogleTest@4501b7af]" name="startapp" is-config="true" duration-ms="12869" started-at="2020-01-21T05:49:42Z" finished-at="2020-01-21T05:49:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startapp -->
+        <test-method status="PASS" signature="checktitle()[pri:0, instance:com.test.verifyGoogleTest@4501b7af]" name="checktitle" duration-ms="18" started-at="2020-01-21T05:49:55Z" finished-at="2020-01-21T05:49:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checktitle -->
+        <test-method status="PASS" signature="closebrowser()[pri:0, instance:com.test.verifyGoogleTest@4501b7af]" name="closebrowser" is-config="true" duration-ms="1154" started-at="2020-01-21T05:49:55Z" finished-at="2020-01-21T05:49:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+        <test-method status="PASS" signature="startapp()[pri:0, instance:com.test.verifyGoogleTest@4501b7af]" name="startapp" is-config="true" duration-ms="11041" started-at="2020-01-21T05:49:56Z" finished-at="2020-01-21T05:50:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startapp -->
+        <test-method status="PASS" signature="checklogo()[pri:1, instance:com.test.verifyGoogleTest@4501b7af]" name="checklogo" duration-ms="86" started-at="2020-01-21T05:50:07Z" finished-at="2020-01-21T05:50:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checklogo -->
+        <test-method status="PASS" signature="closebrowser()[pri:0, instance:com.test.verifyGoogleTest@4501b7af]" name="closebrowser" is-config="true" duration-ms="1031" started-at="2020-01-21T05:50:07Z" finished-at="2020-01-21T05:50:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- com.test.verifyGoogleTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
